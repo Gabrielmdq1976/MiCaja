@@ -1,0 +1,17 @@
+{
+  "name": "MiCaja — Caja diaria para tu comercio",
+  "short_name": "MiCaja",
+  "description": "Llevá la caja diaria de tu comercio: ingresos, egresos, cierre de caja, historial y estadísticas.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f5fb",
+  "theme_color": "#6366f1",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
