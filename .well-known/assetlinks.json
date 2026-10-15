@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ar.obertti.micaja",
+        "sha256_cert_fingerprints": ["8C:31:E6:F4:4D:AA:A3:62:B1:C0:69:60:D7:CB:D6:F4:8B:D3:29:24:1A:62:1C:EA:2E:8B:B3:BE:7E:E5:A9:39"]
+      }
+    }]
