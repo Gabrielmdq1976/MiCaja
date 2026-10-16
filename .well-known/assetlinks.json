@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "ar.obertti.micaja",
-        "sha256_cert_fingerprints": ["8C:31:E6:F4:4D:AA:A3:62:B1:C0:69:60:D7:CB:D6:F4:8B:D3:29:24:1A:62:1C:EA:2E:8B:B3:BE:7E:E5:A9:39"]
+        "sha256_cert_fingerprints": ["A7:40:FF:86:F6:F2:06:4A:CD:A2:BA:E9:AE:8B:80:90:9B:CA:60:79:7A:C7:53:2C:DE:B5:4E:1F:4D:F9:FE:22"]
       }
     }]
